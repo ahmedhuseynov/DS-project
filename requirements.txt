@@ -7,4 +7,5 @@ logging
 datetime
 catboost
 xgboost
+dill
 -e .
